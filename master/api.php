@@ -30,4 +30,7 @@ switch ($action) {
 		break;
 }
 
+
+echo 'hi done change';
+
 ?>
